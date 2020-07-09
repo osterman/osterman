@@ -19,7 +19,5 @@ I'm the CEO & Founder of Cloud Posse. We're a [DevOps Accelerator](https://cloud
 
 Learn more about what we do! 
 
-[![What we do](image.png)](https://cloudposse.com/accelerate/)
-
-
+[![What we do](https://github.com/osterman/osterman/raw/master/image.png)](https://cloudposse.com/accelerate/)
 
