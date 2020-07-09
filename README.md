@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm the CEO & Founder of Cloud Posse. We're a [DevOps Accelerator](https://cloudposse.com/accelerate/) that helps companies own their infrastructure in record time by building it with you and then showing you the ropes.
+
+Learn more about what we do! 
+
+
+
